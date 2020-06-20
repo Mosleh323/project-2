@@ -1,0 +1,176 @@
+body{
+    margin: 0;
+    padding: 0
+}
+html,body {
+    height: 100%;
+}
+.header-area {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8)),url(../img/header.jpg);
+    color: #fff;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 85vh;
+    position: relative;
+}
+.header-contant {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center
+}
+.header-contant h2 {
+    font-size: 54px;
+    font-weight: 500;
+}
+.header-contant p {
+    font-size: 15px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.about-area {
+    padding: 60px 0;
+    text-align: center;
+}
+.about-cont h2 {
+    font-size: 34px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.about-cont p {
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 25px;
+}
+.service-area {
+    background: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8)),url(../img/service.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 55vh;
+    padding: 60px 0;
+    text-align: center;
+}
+.service-cont h2 {
+    text-transform: uppercase;
+    font-size: 34px;
+    font-weight: 600;
+    margin-bottom: 30px;
+    color: #fff;
+}
+.service-cont p {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.what-do {
+    padding: 60px 0;
+    text-align: center;
+    color: #000;
+}
+.what-do h2 {
+    text-transform: uppercase;
+    font-size: 34px;
+    font-weight: 600;
+    margin-bottom: 30px;
+    margin-top: 60px;
+}
+.single-item i {
+    font-size: 50px;
+    margin-bottom: 25px;
+}
+.single-item h5 {
+    font-size: 20px;
+    color: #3c3c3c;
+    text-transform: uppercase;
+}
+.single-item p {
+    font-size: 14px;
+    color: #3c3c3c;
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 25px;
+    margin-bottom: 40px;
+}
+.gallery-area {
+    padding: 60px 0;
+}
+.image img {
+    height: 100%;
+    width: 100%;
+    margin-bottom: 25px;
+}
+.footer-area {
+    background: #edede8;
+    padding: 60px 0;
+    text-align: center;
+}
+.footer-cont h2 {
+    text-transform: uppercase;
+    font-size: 34px;
+    font-weight: 600;
+}
+.footer-cont p {
+    font-size: 14px;
+    color: #3c3c3c;
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

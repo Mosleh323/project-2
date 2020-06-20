@@ -1,0 +1,79 @@
+@media only screen and (max-width: 720px){
+    .header-contant h2 {
+        font-size: 40px;
+    }
+    .header-contant p {
+        font-size: 12px;
+        margin-top: 15px;
+    }
+    .about-cont h2 {
+        font-size: 25px;
+    }
+    .about-cont p {
+        font-size: 12px;
+    }
+    .service-cont h2 {
+        font-size: 25px;
+    }
+    .service-cont p {
+        font-size: 12px;
+    }
+    .what-do h2 {
+        font-size: 25px;
+    }
+    .single-item i {
+      font-size: 30px;  
+    }
+    .single-item h5 {
+        font-size: 18px;
+    }
+    .single-item p {
+        font-size: 12px;
+    }
+    .footer-cont h2 {
+        font-size: 25px;
+    }
+    .footer-cont p {
+        font-size: 12px;
+    }
+}
+@media only screen and (max-width: 500px){
+    .header-contant h2 {
+        font-size: 30px;
+    }
+    .about-cont p {
+        font-size: 10px;
+    }
+    .service-cont p {
+        font-size: 10px;
+    }
+}
+@media only screen and (max-width: 480px){
+    .header-contant h2 {
+        font-size: 22px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
